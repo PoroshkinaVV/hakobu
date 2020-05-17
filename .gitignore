@@ -1,0 +1,13 @@
+.DS_Store
+
+*#
+*.#*
+*~
+*.gemspec
+.ruby-version
+
+!.gitignore
+Gemfile.lock
+
+/pkg
+*.gem
